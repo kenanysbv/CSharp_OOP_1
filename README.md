@@ -1,4 +1,4 @@
-## CSharp_OOP_1
+# CSharp_OOP_1
 It is c# homework.
 This repo have 3 part.
 #1 => Basic Counter
